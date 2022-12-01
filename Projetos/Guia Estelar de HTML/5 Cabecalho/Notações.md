@@ -1,4 +1,4 @@
-<!--
+
     <head>
     - Serve para configurar a página
     
@@ -18,4 +18,3 @@
     - property="og:image" -> Facebook
     - property="og:description" -> Facebook
     - property="og:title" -> Facebook
--->

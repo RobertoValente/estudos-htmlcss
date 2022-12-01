@@ -1,4 +1,4 @@
-<!--
+
     <table>
 
     Prós
@@ -13,4 +13,3 @@
     - Para criar layouts
 
     atributo Scope -> é para a (acessibilidade)
--->

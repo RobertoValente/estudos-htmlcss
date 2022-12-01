@@ -1,4 +1,4 @@
-<!--
+
     Elemento Âncora:
     - <a>
 
@@ -13,4 +13,3 @@
 
     Conteúdo:
     - Qualquer coisa: imagem, texto, etc.
--->
